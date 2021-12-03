@@ -88,7 +88,7 @@
 		"katex": "0.13.18",
 		"langmap": "0.0.16",
 		"matter-js": "0.17.1",
-		"mfm-js": "0.20.0",
+		"mfm-js": "git+https://github.com/t-wataru/mfm-js.git#main",
 		"misskey-js": "0.0.10",
 		"mocha": "8.4.0",
 		"ms": "2.1.3",

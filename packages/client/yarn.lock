@@ -4510,10 +4510,9 @@ merge@^2.1.0:
   resolved "https://registry.yarnpkg.com/merge/-/merge-2.1.1.tgz#59ef4bf7e0b3e879186436e8481c06a6c162ca98"
   integrity sha512-jz+Cfrg9GWOZbQAnDQ4hlVnQky+341Yk5ru8bZSe6sIDTCIg8n9i/u7hSQGSVOF3C7lH6mGtqjkiT9G4wFLL0w==
 
-mfm-js@0.20.0:
+"mfm-js@git+https://github.com/t-wataru/mfm-js.git#main":
   version "0.20.0"
-  resolved "https://registry.yarnpkg.com/mfm-js/-/mfm-js-0.20.0.tgz#3afdcd7959461fd825aa8af9b9e8a57cdbddc290"
-  integrity sha512-1+3tV3nWUKQNh/ztX3wXu5iLBtdsg6q3wUhl+XyOhc2H3sQdG+sih/w2c0nR9TIawjN+Z1/pvgGzxMJHfmKQmA==
+  resolved "git+https://github.com/t-wataru/mfm-js.git#72761e0c78d63889ca2be8f539249e873188d97c"
   dependencies:
     twemoji-parser "13.1.x"
 

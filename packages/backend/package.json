@@ -133,7 +133,7 @@
 		"koa-slow": "2.1.0",
 		"koa-views": "7.0.2",
 		"langmap": "0.0.16",
-		"mfm-js": "0.20.0",
+		"mfm-js": "git+https://github.com/t-wataru/mfm-js.git#main",
 		"misskey-js": "0.0.8",
 		"mocha": "8.4.0",
 		"ms": "3.0.0-canary.1",
